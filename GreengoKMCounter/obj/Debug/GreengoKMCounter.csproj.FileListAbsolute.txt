@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GreengoKMCounter\GreengoKMCounter\bin\Debug\GreengoKMCounter.exe.config
+C:\Users\User\Documents\GreengoKMCounter\GreengoKMCounter\bin\Debug\GreengoKMCounter.exe
+C:\Users\User\Documents\GreengoKMCounter\GreengoKMCounter\bin\Debug\GreengoKMCounter.pdb
+C:\Users\User\Documents\GreengoKMCounter\GreengoKMCounter\obj\Debug\GreengoKMCounter.csprojAssemblyReference.cache
+C:\Users\User\Documents\GreengoKMCounter\GreengoKMCounter\obj\Debug\GreengoKMCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GreengoKMCounter\GreengoKMCounter\obj\Debug\GreengoKMCounter.exe
+C:\Users\User\Documents\GreengoKMCounter\GreengoKMCounter\obj\Debug\GreengoKMCounter.pdb
